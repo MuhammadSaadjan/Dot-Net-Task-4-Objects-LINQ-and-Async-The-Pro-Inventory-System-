@@ -1,0 +1,14 @@
+D:\PSEB\Coding Practice\The Pro Inventory System\bin\Debug\net10.0\The Pro Inventory System.exe
+D:\PSEB\Coding Practice\The Pro Inventory System\bin\Debug\net10.0\The Pro Inventory System.deps.json
+D:\PSEB\Coding Practice\The Pro Inventory System\bin\Debug\net10.0\The Pro Inventory System.runtimeconfig.json
+D:\PSEB\Coding Practice\The Pro Inventory System\bin\Debug\net10.0\The Pro Inventory System.dll
+D:\PSEB\Coding Practice\The Pro Inventory System\bin\Debug\net10.0\The Pro Inventory System.pdb
+D:\PSEB\Coding Practice\The Pro Inventory System\obj\Debug\net10.0\The Pro Inventory System.GeneratedMSBuildEditorConfig.editorconfig
+D:\PSEB\Coding Practice\The Pro Inventory System\obj\Debug\net10.0\The Pro Inventory System.AssemblyInfoInputs.cache
+D:\PSEB\Coding Practice\The Pro Inventory System\obj\Debug\net10.0\The Pro Inventory System.AssemblyInfo.cs
+D:\PSEB\Coding Practice\The Pro Inventory System\obj\Debug\net10.0\The Pro Inventory System.csproj.CoreCompileInputs.cache
+D:\PSEB\Coding Practice\The Pro Inventory System\obj\Debug\net10.0\The Pro Inventory System.dll
+D:\PSEB\Coding Practice\The Pro Inventory System\obj\Debug\net10.0\refint\The Pro Inventory System.dll
+D:\PSEB\Coding Practice\The Pro Inventory System\obj\Debug\net10.0\The Pro Inventory System.pdb
+D:\PSEB\Coding Practice\The Pro Inventory System\obj\Debug\net10.0\The Pro Inventory System.genruntimeconfig.cache
+D:\PSEB\Coding Practice\The Pro Inventory System\obj\Debug\net10.0\ref\The Pro Inventory System.dll
