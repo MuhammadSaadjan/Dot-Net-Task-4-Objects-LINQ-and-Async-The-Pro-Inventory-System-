@@ -1,4 +1,4 @@
-﻿// Program.cs: Tech Store Inventory System
+// Program.cs: Tech Store Inventory System
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -37,7 +37,10 @@ class Program
                 $"  {p.Name,-22}  Only {p.Stock} left!"));
 
         // 3. Search by name: FirstOrDefault
-        string searchTerm = "iPad Pro";
+        //string searchTerm = "iPad Pro";
+        Console.Write("\nEnter product name to search: ");
+        string searchTerm = Console.ReadLine() ?? string.Empty;
+        //Hard Coded value removed and it now takes input from user
         Product? found = inventory
             .FirstOrDefault(p => p.Name.Contains(
                 searchTerm, StringComparison.OrdinalIgnoreCase));
